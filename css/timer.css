@@ -1,0 +1,29 @@
+.numbers {
+
+    font-family: 'BebasNeue'; 
+    font-size: 28px;
+    font-style: normal;
+    color: #f80000;
+
+
+}
+
+
+.title {
+
+
+    font-family: 'BebasNeue'; 
+    font-size: 28px;
+    color: #f80000;
+
+
+}
+
+#table {
+
+    border-style: none;
+    background-color: transparent;
+    margin-top: -110px;
+
+}
+
